@@ -90,13 +90,13 @@ The dataset consists of **4,898 rows** and **12 features**. Below is a descripti
 ## 🎨 Data Visualizations Used
 
 📊 **Data distribution & feature correlations:**  
-![Quality Distribution](results/wine_quality_score_distribution.png)  
-![Feature Correlation Matrix](results/feature_correlation.png)  
-![Distribution of Binary Wine Quality(results/distribution_of_binary_wine_quality.png)  
+![Quality Distribution](wine_quality_score_distribution.png)  
+![Feature Correlation Matrix](feature_correlation.png)  
+![Distribution of Binary Wine Quality](distribution_of_binary_wine_quality.png)  
 
 📉 **Model evaluation:**  
-![Confusion Matrix - Random Forest](results/confusion_matrix.png)  
-![Model Performance Comparison](results/model_comparison.png)  
+![Confusion Matrix - Random Forest](confusion_matrix.png)  
+![Model Performance Comparison](model_comparison.png)  
 
 ---
 ## 🚀 Final Model Selection & Conclusion
